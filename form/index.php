@@ -32,7 +32,7 @@
 <!--			<form class="contact1-form validate-form" method="post" action="../recebedor.php">-->
 			<form class="contact1-form validate-form" method="post">
 				<span class="contact1-form-title">
-					Formulário De Testes
+					Formulário De Teste
 				</span>
 
 				<div class="wrap-input1 validate-input" data-validate = "Name is required">
